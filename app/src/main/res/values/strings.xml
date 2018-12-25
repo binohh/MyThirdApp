@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyThirdApp</string>
+    <string name="hello_world">Hello New World!</string>
 </resources>

@@ -1,15 +1,15 @@
-package com.example.mythirdapp;
+package com.example.mythirdapp.activity;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity
-{
+import com.example.mythirdapp.R;
 
+public class DialogActivity extends Activity
+{
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
-        // Hiiiiii xin chao cac ban
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
